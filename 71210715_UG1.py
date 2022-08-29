@@ -5,7 +5,7 @@ def pilihan():
     print("3. Kali")
     print("4. Bagi")
 
-print(pilihan())
+pilihan()
 ch = input("Pilihan Anda: ")
 while ch != "Q":
     if ch == "1":
